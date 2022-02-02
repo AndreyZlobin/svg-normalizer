@@ -1,0 +1,16 @@
+{
+  "name": "svg-normalizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "svg-normal": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js -p ./public/assets"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
